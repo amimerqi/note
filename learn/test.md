@@ -62,7 +62,9 @@ eg：[bilibili](https://www.bilibili.com/)
 | 内容 | 内容 |
 --- 
 普通的单行公式：$a^2+b^2=1$
-在一行中的公式组：$$\begin{cases}x=\rho\cos\theta \\y=\rho\sin\theta\\\end{cases}$$
+在一行中的公式组：$$\begin{cases}
+x=\rho\cos\theta\\y=\rho\sin\theta\
+\end{cases}$$
 
 上标；$x^2+x^{12}=1$
 下标：$x_2+y_{12}=1$
