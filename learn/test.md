@@ -50,6 +50,17 @@ eg：[bilibili](https://www.bilibili.com/)
 ![图片提示语](图片链接)
 ![bilibili的某个封面](https://i0.hdslb.com/bfs/archive/bc956342ba089ae7664d2fe2248e0ea435dd8daf.jpg)
 ![](image/2021-05-19-22-39-34.png)
+
+---
+
+
+表格:
+
+| 表头 | 表头 |
+| ---- | ---- |
+| 内容 | 内容 |
+| 内容 | 内容 |
+--- 
 普通的单行公式：$a^2+b^2=1$
 在一行中的公式组：$$
 \begin{cases}
